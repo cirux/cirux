@@ -34,7 +34,7 @@ Tools to manage databases, perform queries, and visualize data structures and re
 # Testing and quality assurance
 Automated testing for unit, integration, and API testing to ensure code quality.
 
-<img src='https://github.com/devicons/devicon/blob/master/icons/junit/junit-original-wordmark.svg' alt='junit' height=50> <img src='https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg' alt='postman' title='postman' height=50>
+<img src='https://github.com/devicons/devicon/blob/master/icons/junit/junit-original-wordmark.svg' alt='junit' height=50> <img src='https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg' alt='postman' title='postman' height=50> <img src='https://github.com/devicons/devicon/blob/master/icons/sonarqube/sonarqube-original-wordmark.svg' alt='sonarqube' title='sonarqube' height=50>
 
 # Cloud
 Platforms for scalable computing, storage, and hosting in the cloud.
